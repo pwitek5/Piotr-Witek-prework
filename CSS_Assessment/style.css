@@ -1,0 +1,33 @@
+#nav {
+    background-color: grey;
+    width: 100%;
+    margin-bottom: 40px;
+    padding: 0px;
+    text-align: center;
+}
+
+#left {
+    float: left;
+    background-color: blue;
+    padding: 200px 0px 200px 0px;
+    width: 50%;
+    text-align: center;
+}
+
+#right {
+    float: right;
+    width: 25%;
+    padding: 200px 0px 200px 0px;
+    text-align: center;
+    background-color: red;
+}
+
+#footer {
+    position: fixed;
+    bottom: 0;
+    padding: 0px 0px 0px 0px;
+    background-color: green;
+    width: 100%;
+    text-align: center;
+    clear: both;
+}
